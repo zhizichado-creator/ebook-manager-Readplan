@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.spec
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+Thumbs.db
+
+# Local cover cache and generated application data
+database/covers/
+covers/
+logs/
+*.log
